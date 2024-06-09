@@ -137,4 +137,32 @@
 ],         
         "cities": ["Capracapitale", "Goatburg ", "Santa Fe","Goatham","Puebloalto","Caprivilla"]         
 },
+{	
+	"name": "Sheep Meta",	
+	"leaderName": "Skekdog",	
+	"adjective": ["sheepy"],
+		"style": "sheep",	
+	"startBias": ["Hill"],	
+	"preferredVictorType": "Domination", 	
+
+/*	"startIntroPart1": "...",	
+	"startIntroPart2": "...",			
+*/
+	"declaringWar": "Baask in my glory - for it is one you will have to get used to.",	
+	"defeated": "Baah, you baarely did anything... shear luck must have been on your side..",	
+	"attacked": "What's that? Wolves dare come near me? How baamusing.",	
+	//"introduction": "You are in the presence of Attila, scourge of Rome. Do not let hubris be your downfall as well.",			
+
+	"neutralHello": "Baa, Baa (You must be blessed to even talk to Sheep)",	
+	"hateHello": "Baaaa! (Die!)",			
+
+	"tradeRequest": "This is better than you deserve, but let it not be said that I am an unfair man.",			
+
+	"outerColor": [79, 66, 46],	
+	"innerColor": [200, 200, 200],	
+	"favoredReligion": "The Meta",	
+	"uniqueName": "Sheep Domination",	
+	"uniques": ["[+1 Food, +1 Production] from every [Sheep]", "[+15]% [Production] <while the empire is happy>"],	
+	"cities": ["Baarcelona", "Baamingham", "Mossheep", "Washearton", "Warwickshear", "Colorasheep", "Ramburgh"]	
+},
 ]
