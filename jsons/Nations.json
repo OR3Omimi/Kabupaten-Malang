@@ -1,13 +1,13 @@
 [
 {	
-	"name": "Sheep Meta",	
+	"name": "Kabupaten Malang ",	
 	"leaderName": "Skekdog",	
 	"adjective": ["sheepy"],
 		"style": "sheep",	
 	"startBias": ["Hill"],	
 	"preferredVictorType": "Domination", 	
 
-/*	"startIntroPart1": "...",	
+/*	"startIntroPart1": "No kabupaten malang...",	
 	"startIntroPart2": "...",			
 */
 	"declaringWar": "Baask in my glory - for it is one you will have to get used to.",	
